@@ -43,51 +43,52 @@ Seasoned **Broadcast Automation Specialist** and **Python Developer** with **20+
 ## 🚀 Featured Projects
 
 ### 🎫 Ticket Price Calculator Pro
-**Professional GUI application with ttkbootstrap** - Advanced ticket pricing system with history tracking and beautiful interface
-- **Features**: Age-based pricing, save/load history, real-time validation, professional UI
-- **Tech**: Python, ttkbootstrap, file handling, GUI development
-- **Skills**: Object-oriented programming, user interface design, data persistence
+**Professional GUI application with ttkbootstrap** - Advanced ticket pricing system with history tracking and beautiful interface  
+- **Features**: Age-based pricing, save/load history, real-time validation, professional UI  
+- **Tech**: Python, ttkbootstrap, file handling, GUI development  
+- **Skills**: Object-oriented programming, user interface design, data persistence  
 
 ### 🎓 Student Grading System
-**Comprehensive academic management system** - Handles multiple subject groups with detailed GPA calculation
-- **Features**: Science/Arts/Commerce groups, grading scale, professional reports, input validation
-- **Tech**: Python, data validation, tabular output, class-based architecture
-- **Skills**: System design, data processing, user experience
+**Comprehensive academic management system** - Handles multiple subject groups with detailed GPA calculation  
+- **Features**: Science/Arts/Commerce groups, grading scale, professional reports, input validation  
+- **Tech**: Python, data validation, tabular output, class-based architecture  
+- **Skills**: System design, data processing, user experience  
 
 ### 🚦 Traffic Light Simulator
-**Conditional logic demonstration** - Multiple implementations of traffic signal systems
-- **Features**: Three different versions, user input handling, dictionary-based logic
-- **Tech**: Python, conditional logic, functions, error handling
-- **Skills**: Algorithm design, code refactoring, user interaction
+**Conditional logic demonstration** - Multiple implementations of traffic signal systems  
+- **Features**: Three different versions, user input handling, dictionary-based logic  
+- **Tech**: Python, conditional logic, functions, error handling  
+- **Skills**: Algorithm design, code refactoring, user interaction  
 
 ### 🎂 Birthday Message Generator
-**Personalized message system** - Generate and save customized birthday wishes
-- **Features**: Input validation, file saving, error handling, professional formatting
-- **Tech**: Python, file I/O, exception handling, string formatting
-- **Skills**: User input processing, file operations, data validation
+**Personalized message system** - Generate and save customized birthday wishes  
+- **Features**: Input validation, file saving, error handling, professional formatting  
+- **Tech**: Python, file I/O, exception handling, string formatting  
+- **Skills**: User input processing, file operations, data validation  
 
 ### 🏛️ Exhibition Hall Management
-**Ticket information system** - Professional venue management with age-based pricing
-- **Features**: Age validation, ticket status checking, comprehensive reporting
-- **Tech**: Python, type hints, input validation, professional output
-- **Skills**: Business logic, user experience, professional documentation
+**Ticket information system** - Professional venue management with age-based pricing  
+- **Features**: Age validation, ticket status checking, comprehensive reporting  
+- **Tech**: Python, type hints, input validation, professional output  
+- **Skills**: Business logic, user experience, professional documentation  
 
 ### 🌡️ Temperature & Weather System
-**Environmental monitoring tools** - Temperature conversion and weather reporting
-- **Features**: Celsius-Fahrenheit conversion, weather categorization, input validation
-- **Tech**: Python, mathematical operations, conditional logic
-- **Skills**: Data processing, algorithm implementation, user interface
+**Environmental monitoring tools** - Temperature conversion and weather reporting  
+- **Features**: Celsius-Fahrenheit conversion, weather categorization, input validation  
+- **Tech**: Python, mathematical operations, conditional logic  
+- **Skills**: Data processing, algorithm implementation, user interface  
 
 ### 🧮 Math Functions Laboratory
-**Mathematical utilities collection** - Various math operations and geometric calculations
-- **Features**: Circle calculations, Pythagorean theorem, built-in math functions
-- **Tech**: Python, math module, geometry, user interaction
-- **Skills**: Mathematical programming, problem-solving, utility development
+**Mathematical utilities collection** - Various math operations and geometric calculations  
+- **Features**: Circle calculations, Pythagorean theorem, built-in math functions  
+- **Tech**: Python, math module, geometry, user interaction  
+- **Skills**: Mathematical programming, problem-solving, utility development  
 
 ### 🎆 New Year Countdown Timer
-**Interactive celebration timer** - Professional countdown with real-time display
-- **Features**: Real-time countdown, console animation, professional formatting
-- **Tech**: Python, time module, system I/O, console manipulation
-- **Skills**: Real-time programming, user experience, console applications
+**Interactive celebration timer** - Professional countdown with real-time display  
+- **Features**: Real-time countdown, console animation, professional formatting  
+- **Tech**: Python, time module, system I/O, console manipulation  
+- **Skills**: Real-time programming, user experience, console applications  
+
 ---
 *Bridging decades of broadcast expertise with modern automation technologies*
