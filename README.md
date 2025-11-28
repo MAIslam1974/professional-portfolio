@@ -1,25 +1,44 @@
-# Aminul Islam
+# 🚀 Md. Aminul Islam - Professional Portfolio
 
-**Broadcast Automation Specialist | Python Developer**
+## 📄 [Download My Resume](Aminul-Islam-Resume.pdf)
 
-20+ years in broadcast engineering and IT operations. Leveraging Python automation to revolutionize media workflows and ensure 99.9%+ uptime.
+## 👨‍💻 Professional Summary
+Seasoned **Broadcast Automation Specialist** and **Python Developer** with **20+ years** of experience revolutionizing media workflows through technology automation. Specialized in maintaining **99.9%+ uptime** for major television networks.
 
-## Resume
-- **PDF:** https://MAIslam1974.github.io/professional-portfolio/Aminul-Islam-Resume.pdf
-- **Online:** https://MAIslam1974.github.io/professional-portfolio
+## 🛠️ Technical Expertise
 
-## Technical Skills
-- **Broadcast:** AVECO, Harris ADC, Imagine D-Series/Selenio
-- **Programming:** Python, Bash, HTML
-- **Tools:** Git, Linux, Windows Server, VS Code
+### 🎬 Broadcast Systems
+- Broadcast Automation & Master Control
+- Transmission Systems & Signal Flow  
+- Media Asset Management
+- Disaster Recovery Planning
+- 99.9%+ Uptime Assurance
 
-## Contact
-- **Email:** amin.bvtv@gmail.com
-- **Phone:** +8801827543272
-- **LinkedIn:** https://linkedin.com/in/md-aminul-islam-dev
-- **GitHub:** https://github.com/MAIslam1974
+### 💻 Development & Automation
+- Python Scripting & Process Automation
+- Workflow Optimization
+- System Integration
+- Technical Documentation
+- Bash Scripting
 
-## Achievements
-- 70% reduction in manual intervention via Python automation
-- 20% decrease in on-air errors through training
-- Proven leadership in 24/7 broadcast environments
+### 🏗️ Infrastructure & Operations
+- System Administration
+- Network Management
+- IT Operations
+- Performance Monitoring
+- Broadcast Infrastructure
+
+## 📈 Career Highlights
+- **20+ years** in broadcast engineering and IT operations
+- Successfully **automated critical broadcast workflows** 
+- Maintained **99.9%+ uptime** for major television networks
+- **Reduced manual processes** through Python automation solutions
+- Expertise in **end-to-end broadcast operations**
+
+## 🔗 Connect With Me
+📧 **Email**: amin.bvv@gmail.com  
+💼 **LinkedIn**: [Md. Aminul Islam](https://www.linkedin.com/in/md-aminul-islam-dev)  
+📍 **Location**: Dhaka, Bangladesh
+
+---
+*Bridging decades of broadcast expertise with modern automation technologies*
