@@ -38,7 +38,7 @@ Seasoned **Broadcast Automation Specialist** and **Python Developer** with **20+
 ## 🔗 Connect With Me
 📧 **Email**: amin.bvtv@gmail.com  
 📱 **Phone**: +88 01827543272 *(available upon request)*  
-💼 **LinkedIn**: [Md. Aminul Islam](https://www.linkedin.com/in/md-aminul-islam-dev)  
+💼 **LinkedIn**: [Md. Aminul Islam](https://www.linkedin.com/in/md-aminul-islam-dev) 
 📍 **Location**: Dhaka, Bangladesh
 
 ---
