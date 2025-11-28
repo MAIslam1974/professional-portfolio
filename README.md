@@ -89,13 +89,9 @@ Interactive celebration timer - Professional countdown with real-time display
 • Features: Real-time countdown, console animation, professional formatting  
 • Tech: Python, time module, system I/O, console manipulation  
 • Skills: Real-time programming, user experience, console applications  
----
 ## 🚀 How to Run My Code
-
 ### For Recruiters & Viewers:
-
 **Simple Steps to Run Any Project:**
-
 1. **You need Python installed** on your computer
 2. **Download any .py file** from my repositories  
 3. **Open terminal/command prompt**
@@ -112,10 +108,14 @@ python student_result_grading_system.py
 
 # For Ticket Calculator
 python ticket_price_calculator_pro.py
+
 🛠️ Need Help?
 Download Python: https://python.org
 Contact me: amin.bvtv@gmail.com
 I'll help you get started!
 All my code is tested and ready to run! 🚀
+
+---
+
 
 *Bridging decades of broadcast expertise with modern automation technologies*
