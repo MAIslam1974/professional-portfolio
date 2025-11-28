@@ -89,33 +89,35 @@ Interactive celebration timer - Professional countdown with real-time display
 • Features: Real-time countdown, console animation, professional formatting  
 • Tech: Python, time module, system I/O, console manipulation  
 • Skills: Real-time programming, user experience, console applications  
-## 🚀 How to Run My Code
-### For Recruiters & Viewers:
-**Simple Steps to Run Any Project:**
-1. **You need Python installed** on your computer
-2. **Download any .py file** from my repositories  
-3. **Open terminal/command prompt**
-4. **Type this command:**
-   ```bash
-   python filename.py
-   The program will run automatically!
-   📋 Example Commands:
-   # For Traffic Light Simulator
-python traffic_signals.py
-
-# For Student Grading System  
-python student_result_grading_system.py
-
-# For Ticket Calculator
-python ticket_price_calculator_pro.py
-
-🛠️ Need Help?
-Download Python: https://python.org
-Contact me: amin.bvtv@gmail.com
-I'll help you get started!
-All my code is tested and ready to run! 🚀
-
 ---
+## 🚀 How to Run My Code
+
+**For Recruiters & Viewers:**
+
+Follow these simple steps to run any of my projects:
+
+1. **Install Python** on your computer from python.org
+
+2. **Download any .py file** from my GitHub repositories
+
+3. **Open terminal** (Mac/Linux) or **command prompt** (Windows)
+
+4. **Type this command:**
+   python filename.py
+
+5. **The program will start running!**
+
+**Example Commands:**
+- python traffic_signals.py
+- python student_result_grading_system.py  
+- python ticket_price_calculator_pro.py
+
+**Need Help?**
+- Download Python: https://python.org
+- Contact me: amin.bvtv@gmail.com
+- I'll help you get started!
+
+All my code is tested and ready to run! 🚀
 
 
 *Bridging decades of broadcast expertise with modern automation technologies*
