@@ -128,7 +128,9 @@ Interactive celebration timer with real-time display and console animation.
 **Example Commands:**
 
 python traffic_signals.py
+
 python student_result_grading_system.py
+
 python ticket_price_calculator_pro.py
 
 
